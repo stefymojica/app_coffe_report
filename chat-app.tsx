@@ -85,7 +85,7 @@ export default function ChatApp() {
               <CardContent className="space-y-3">
                 <div>
                   <h4 className="font-medium text-gray-900 mb-1">Endpoint</h4>
-                  <code className="text-xs bg-gray-100 px-2 py-1 rounded text-gray-700">POST /api/chat</code>
+                  <code className="text-xs bg-gray-100 px-2 py-1 rounded text-gray-700">POST /query</code>
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-900 mb-1">Formato de Envío</h4>
